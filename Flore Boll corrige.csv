@@ -1,0 +1,525 @@
+Nom,Position,Durée,Genre,Latéralité,Set,Système,Coup,Type de service,Type Coup TK,Zone de jeu
+SET (1),00:00.0,00:00.0,Garçons,Droitier/gaucher,1,Att/att,,,,
+FLORE Tristan (1),00:00.0,00:00.0,Garçons,Coup droit,SET,Att/att,FLORE Tristan,Latéral droit,,
+BOLL Timo (1),00:00.3,00:00.4,Garçons,Revers,SET,Att/att,BOLL Timo,,Controle / Résistance,M2
+FLORE Tristan (2),00:00.7,00:00.4,Garçons,Revers,SET,Att/att,FLORE Tristan,,Attaque / Offensif,M3
+BOLL Timo (2),00:01.0,00:00.3,Garçons,Revers,SET,Att/att,BOLL Timo,,Controle / Résistance,M3
+FLORE Tristan (3),00:01.4,00:00.4,Garçons,Revers,SET,Att/att,FLORE Tristan,,Attaque / Offensif,M3
+BOLL Timo (3),00:01.8,00:00.4,Garçons,Coup droit,SET,Att/att,BOLL Timo,,Attaque / Offensif,G3
+FLORE Tristan (4),00:02.1,00:00.5,Garçons,Revers,SET,Att/att,Serveur Point -,,Controle / Résistance,G3
+FLORE Tristan (5),00:05.9,00:00.0,Garçons,Coup droit,SET,Att/att,FLORE Tristan,Latéral droit,,
+BOLL Timo (4),00:08.4,00:00.7,Garçons,Coup droit,SET,Att/att,BOLL Timo,,Poussette,M2
+FLORE Tristan (6),00:09.0,00:00.5,Garçons,Coup droit,SET,Att/att,FLORE Tristan,,Controle / Résistance,D3
+BOLL Timo (5),00:09.5,00:00.6,Garçons,Coup droit,SET,Att/att,BOLL Timo,,Controle / Résistance,M3
+FLORE Tristan (7),00:10.2,00:00.7,Garçons,Revers,SET,Att/att,Serveur Point -,,Attaque / Offensif,G3
+BOLL Timo (6),00:14.5,00:00.9,Garçons,Coup droit,,Att/att,BOLL Timo,Latéral gauche,,
+FLORE Tristan (8),00:15.8,00:01.0,Garçons,Revers,,Att/att,FLORE Tristan,,Poussette,G2
+BOLL Timo (7),00:16.8,00:00.3,Garçons,Coup droit,,Att/att,BOLL Timo,,Attaque / Offensif,M2
+FLORE Tristan (9),00:17.0,00:00.4,Garçons,Revers,,Att/att,FLORE Tristan,,Attaque / Offensif,G3
+BOLL Timo (8),00:17.4,00:00.5,Garçons,Coup droit,,Att/att,Serveur Point -,,Controle / Résistance,G3
+BOLL Timo (9),00:22.1,00:00.7,Garçons,Coup droit,,Att/att,BOLL Timo,Latéral droit,,
+FLORE Tristan (10),00:23.5,00:00.8,Garçons,Coup droit,,Att/att,FLORE Tristan,,Poussette,M1
+BOLL Timo (10),00:24.3,00:00.8,Garçons,Revers,,Att/att,Serveur Point -,,Controle / Résistance,D2
+FLORE Tristan (11),00:27.5,00:00.0,Garçons,Coup droit,,Att/att,FLORE Tristan,Latéral droit,,
+BOLL Timo (11),00:30.6,00:00.3,Garçons,Coup droit,,Att/att,BOLL Timo,,Attaque / Offensif,M2
+FLORE Tristan (12),00:30.9,00:00.5,Garçons,Revers,,Att/att,Serveur Point -,,Controle / Résistance,G3
+FLORE Tristan (13),00:33.7,00:00.0,Garçons,Coup droit,,Att/att,FLORE Tristan,Latéral droit,,
+BOLL Timo (12),00:36.6,00:00.4,Garçons,Revers,,Att/att,BOLL Timo,,Controle / Résistance,M2
+FLORE Tristan (14),00:37.0,00:00.4,Garçons,Revers,,Att/att,FLORE Tristan,,Attaque / Offensif,M3
+BOLL Timo (13),00:37.4,00:00.6,Garçons,Revers,,Att/att,Serveur Point +,,Controle / Résistance,D3
+BOLL Timo (14),00:42.3,00:00.6,Garçons,Coup droit,,Att/att,BOLL Timo,Latéral gauche,,
+FLORE Tristan (15),00:43.3,00:00.7,Garçons,Revers,,Att/att,Serveur Point +,,Attaque / Offensif,M1
+BOLL Timo (15),00:47.9,00:00.6,Garçons,Coup droit,,Att/att,BOLL Timo,Latéral droit,,
+FLORE Tristan (16),00:49.3,00:00.4,Garçons,Coup droit,,Att/att,FLORE Tristan,,Attaque / Offensif,D2
+BOLL Timo (16),00:49.7,00:00.4,Garçons,Revers,,Att/att,Serveur Point -,,Controle / Résistance,D3
+FLORE Tristan (17),00:52.9,00:00.0,Garçons,Coup droit,,Att/att,FLORE Tristan,Latéral droit,,
+FLORE Tristan (18),01:02.2,00:00.0,Garçons,Coup droit,,Att/att,FLORE Tristan,Latéral droit,,
+BOLL Timo (17),01:05.2,00:00.5,Garçons,Coup droit,,Att/att,BOLL Timo,,Poussette,G1
+FLORE Tristan (19),01:05.7,00:00.4,Garçons,Coup droit,,Att/att,FLORE Tristan,,Attaque / Offensif,G3
+BOLL Timo (18),01:06.2,00:00.4,Garçons,Coup droit,,Att/att,Serveur Point +,,Controle / Résistance,D3
+FLORE Tristan (20),01:09.1,00:00.0,Garçons,Coup droit,,Att/att,FLORE Tristan,Latéral droit,,
+BOLL Timo (19),01:12.2,00:00.4,Garçons,Coup droit,,Att/att,Serveur Point +,,Controle / Résistance,G2
+BOLL Timo (20),01:17.4,00:01.4,Garçons,Coup droit,,Att/att,BOLL Timo,Latéral droit,,
+FLORE Tristan (21),01:18.8,00:01.0,Garçons,Revers,,Att/att,FLORE Tristan,,Poussette,G3
+BOLL Timo (21),01:19.7,00:00.8,Garçons,Coup droit,,Att/att,BOLL Timo,,Attaque / Offensif,M3
+FLORE Tristan (22),01:20.5,00:00.8,Garçons,Coup droit,,Att/att,FLORE Tristan,,Controle / Résistance,D3
+BOLL Timo (22),01:21.3,00:00.7,Garçons,Coup droit,,Att/att,BOLL Timo,,Attaque / Offensif,M3
+FLORE Tristan (23),01:21.9,00:00.9,Garçons,Revers,,Att/att,FLORE Tristan,,Controle / Résistance,M3
+BOLL Timo (23),01:22.8,00:00.7,Garçons,Coup droit,,Att/att,BOLL Timo,,Attaque / Offensif,M3
+FLORE Tristan (24),01:23.6,00:00.9,Garçons,Revers,,Att/att,FLORE Tristan,,Controle / Résistance,M3
+BOLL Timo (24),01:24.4,00:00.7,Garçons,Coup droit,,Att/att,BOLL Timo,,Attaque / Offensif,M3
+FLORE Tristan (25),01:25.1,00:00.9,Garçons,Revers,,Att/att,FLORE Tristan,,Controle / Résistance,G3
+BOLL Timo (25),01:26.0,00:00.7,Garçons,Coup droit,,Att/att,BOLL Timo,,Attaque / Offensif,M3
+FLORE Tristan (26),01:26.7,00:00.4,Garçons,Coup droit,,Att/att,Serveur Point +,,Controle / Résistance,D3
+BOLL Timo (26),01:31.2,00:00.7,Garçons,Coup droit,,Att/att,BOLL Timo,Latéral gauche,,
+FLORE Tristan (27),01:32.4,00:00.5,Garçons,Coup droit,,Att/att,FLORE Tristan,,Attaque / Offensif,M2
+BOLL Timo (27),01:32.9,00:00.3,Garçons,Revers,,Att/att,Serveur Point -,,Controle / Résistance,D3
+FLORE Tristan (28),01:35.9,00:00.0,Garçons,Coup droit,,Att/att,FLORE Tristan,Latéral droit,,
+BOLL Timo (28),01:38.8,00:00.4,Garçons,Coup droit,,Att/att,Serveur Point +,,Poussette,M1
+FLORE Tristan (29),01:41.8,00:00.0,Garçons,Coup droit,,Att/att,FLORE Tristan,Latéral droit,,
+BOLL Timo (29),01:44.7,00:00.6,Garçons,Coup droit,,Att/att,BOLL Timo,,Poussette,M1
+FLORE Tristan (30),01:45.3,00:00.5,Garçons,Revers,,Att/att,FLORE Tristan,,Attaque / Offensif,M2
+BOLL Timo (30),01:45.7,00:01.0,Garçons,Revers,,Att/att,Serveur Point +,,Controle / Résistance,D3
+BOLL Timo (31),01:49.1,00:01.2,Garçons,Coup droit,,Att/att,BOLL Timo,Latéral droit,,
+FLORE Tristan (31),01:51.0,00:00.7,Garçons,Revers,,Att/att,FLORE Tristan,,Attaque / Offensif,M2
+BOLL Timo (32),01:51.7,00:00.8,Garçons,Revers,,Att/att,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (32),01:52.5,00:00.7,Garçons,Coup droit,,Att/att,FLORE Tristan,,Controle / Résistance,M3
+BOLL Timo (33),01:53.2,00:00.4,Garçons,Coup droit,,Att/att,BOLL Timo,,Attaque / Offensif,M3
+FLORE Tristan (33),01:53.6,00:00.8,Garçons,Coup droit,,Att/att,FLORE Tristan,,Controle / Résistance,D3
+BOLL Timo (34),01:54.4,00:00.4,Garçons,Coup droit,,Att/att,BOLL Timo,,Attaque / Offensif,D3
+FLORE Tristan (34),01:54.8,00:01.0,Garçons,Revers,,Att/att,FLORE Tristan,,Controle / Résistance,G3
+BOLL Timo (35),01:55.8,00:00.6,Garçons,Coup droit,,Att/att,BOLL Timo,,Controle / Résistance,G3
+FLORE Tristan (35),01:56.5,00:00.9,Garçons,Coup droit,,Att/att,Serveur Point +,,Controle / Résistance,M3
+BOLL Timo (36),01:59.0,00:00.7,Garçons,Coup droit,,Att/att,BOLL Timo,Latéral droit,,
+FLORE Tristan (36),02:00.4,00:00.6,Garçons,Revers,,Att/att,FLORE Tristan,,Attaque / Offensif,M2
+BOLL Timo (37),02:01.0,00:00.4,Garçons,Coup droit,,Att/att,BOLL Timo,,Attaque / Offensif,G3
+FLORE Tristan (37),02:01.4,00:00.6,Garçons,Coup droit,,Att/att,Serveur Point +,,Controle / Résistance,M3
+FLORE Tristan (38),02:04.6,00:00.0,Garçons,Coup droit,,Att/att,FLORE Tristan,Latéral droit,,
+BOLL Timo (38),02:07.5,00:00.5,Garçons,Coup droit,,Att/att,BOLL Timo,,Controle / Résistance,M2
+FLORE Tristan (39),02:08.1,00:00.8,Garçons,Revers,,Att/att,FLORE Tristan,,Controle / Résistance,M3
+BOLL Timo (39),02:08.8,00:00.6,Garçons,Revers,,Att/att,BOLL Timo,,Attaque / Offensif,D3
+FLORE Tristan (40),02:09.5,00:00.7,Garçons,Coup droit,,Att/att,FLORE Tristan,,Attaque / Offensif,D3
+BOLL Timo (40),02:10.1,00:00.4,Garçons,Coup droit,,Att/att,Serveur Point +,,Attaque / Offensif,D3
+FLORE Tristan (41),02:12.7,00:00.0,Garçons,Coup droit,,Att/att,FLORE Tristan,Latéral droit,,
+BOLL Timo (41),02:15.5,00:00.5,Garçons,Coup droit,,Att/att,BOLL Timo,,Poussette,M1
+FLORE Tristan (42),02:16.0,00:00.5,Garçons,Revers,,Att/att,FLORE Tristan,,Attaque / Offensif,M3
+BOLL Timo (42),02:16.5,00:00.5,Garçons,Revers,,Att/att,BOLL Timo,,Controle / Résistance,M3
+FLORE Tristan (43),02:17.0,00:00.5,Garçons,Revers,,Att/att,FLORE Tristan,,Attaque / Offensif,M3
+BOLL Timo (43),02:17.5,00:00.5,Garçons,Revers,,Att/att,BOLL Timo,,Controle / Résistance,M3
+FLORE Tristan (44),02:18.0,00:00.8,Garçons,Revers,,Att/att,Serveur Point -,,Controle / Résistance,G3
+BOLL Timo (44),02:22.5,00:00.5,Garçons,Coup droit,,Att/att,BOLL Timo,Latéral droit,,
+FLORE Tristan (45),02:23.8,00:00.7,Garçons,Coup droit,,Att/att,FLORE Tristan,,Poussette,D1
+BOLL Timo (45),02:24.5,00:00.5,Garçons,Revers,,Att/att,BOLL Timo,,Controle / Résistance,M2
+FLORE Tristan (46),02:25.0,00:00.8,Garçons,Revers,,Att/att,Serveur Point +,,Controle / Résistance,G3
+BOLL Timo (46),02:29.0,00:01.3,Garçons,Coup droit,,Att/att,BOLL Timo,Latéral gauche,,
+FLORE Tristan (47),02:30.4,00:00.6,Garçons,Revers,,Att/att,Serveur Point +,,Attaque / Offensif,G2
+FLORE Tristan (48),02:33.5,00:00.0,Garçons,Coup droit,,Att/att,FLORE Tristan,Latéral droit,,
+BOLL Timo (47),02:36.3,00:00.6,Garçons,Coup droit,,Att/att,BOLL Timo,,Poussette,M1
+FLORE Tristan (49),02:36.9,00:00.5,Garçons,Coup droit,,Att/att,Serveur Point -,,Attaque / Offensif,D2
+BOLL Timo (48),02:41.5,00:00.7,Garçons,Coup droit,,Att/att,BOLL Timo,Latéral droit,,
+FLORE Tristan (50),02:43.0,00:00.8,Garçons,Coup droit,,Att/att,FLORE Tristan,,Poussette,D1
+BOLL Timo (49),02:43.8,00:00.7,Garçons,Coup droit,,Att/att,BOLL Timo,,Controle / Résistance,M2
+FLORE Tristan (51),02:44.5,00:00.3,Garçons,Coup droit,,Att/att,FLORE Tristan,,Attaque / Offensif,M3
+BOLL Timo (50),02:44.8,00:00.6,Garçons,Revers,,Att/att,BOLL Timo,,Controle / Résistance,M3
+FLORE Tristan (52),02:45.4,00:00.5,Garçons,Coup droit,,Att/att,FLORE Tristan,,Attaque / Offensif,M3
+BOLL Timo (51),02:45.9,00:00.2,Garçons,Coup droit,,Att/att,Serveur Point -,,Attaque / Offensif,G3
+FLORE Tristan (53),02:48.0,00:00.0,Garçons,Coup droit,,Att/att,FLORE Tristan,Latéral droit,,
+BOLL Timo (),02:49.0,00:00.0,Garçons,Coup droit,,Att/att,BOLL Timo,,Poussette,M1
+FLORE Tristan (54),02:50.1,00:01.8,Garçons,Revers,,Att/att,FLORE Tristan,,Controle / Résistance,M3
+BOLL Timo,02:50.5,00:00.8,Garçons,Revers,,Att/att,BOLL Timo,,Attaque / Offensif,G3
+FLORE Tristan,02:51.0,00:00.0,Garçons,Revers,,Att/att,FLORE Tristan,,Controle / Résistance,M3
+BOLL Timo (52),02:51.9,00:00.5,Garçons,Coup droit,,Att/att,BOLL Timo,,Attaque / Offensif,G3
+FLORE Tristan (55),02:52.3,00:00.7,Garçons,Coup droit,,Att/att,Serveur Point -,,Attaque / Offensif,G3
+BOLL Timo (53),02:57.1,00:01.5,Garçons,Coup droit,,Att/att,BOLL Timo,Latéral droit,,
+FLORE Tristan (56),02:58.5,00:00.4,Garçons,Coup droit,,Att/att,FLORE Tristan,,Attaque / Offensif,G3
+BOLL Timo (54),02:58.9,00:00.4,Garçons,Coup droit,,Att/att,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (57),02:59.3,00:01.0,Garçons,Coup droit,,Att/att,FLORE Tristan,,Controle / Résistance,G3
+BOLL Timo (55),03:00.3,00:00.8,Garçons,Coup droit,,Att/att,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (58),03:01.2,00:01.4,Garçons,Revers,,Att/att,Serveur Point -,,Attaque / Offensif,M3
+FLORE Tristan (59),03:05.0,00:00.0,Garçons,Coup droit,,Att/att,FLORE Tristan,Latéral droit,,
+BOLL Timo (56),03:08.1,00:00.6,Garçons,Coup droit,,Att/att,BOLL Timo,,Controle / Résistance,D2
+FLORE Tristan (60),03:08.7,00:00.7,Garçons,Coup droit,,Att/att,Serveur Point -,,Attaque / Offensif,D3
+BOLL Timo (57),03:14.0,00:00.8,Garçons,Coup droit,,Att/att,BOLL Timo,Latéral droit,,
+FLORE Tristan (61),03:15.6,00:00.5,Garçons,Revers,,Att/att,FLORE Tristan,,Attaque / Offensif,D2
+BOLL Timo (58),03:16.1,00:00.8,Garçons,Revers,,Att/att,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (62),03:16.9,00:00.7,Garçons,Coup droit,,Att/att,FLORE Tristan,,Controle / Résistance,M3
+BOLL Timo (59),03:17.6,00:00.3,Garçons,Coup droit,,Att/att,BOLL Timo,,Attaque / Offensif,D3
+FLORE Tristan (63),03:17.9,00:01.0,Garçons,Revers,,Att/att,Serveur Point -,,Controle / Résistance,G3
+FLORE Tristan (64),03:21.3,00:00.0,Garçons,Coup droit,,Att/att,FLORE Tristan,Latéral droit,,
+BOLL Timo (60),03:24.1,00:00.6,Garçons,Coup droit,,Att/att,BOLL Timo,,Poussette,M1
+FLORE Tristan (65),03:24.7,00:00.4,Garçons,Coup droit,,Att/att,FLORE Tristan,,Attaque / Offensif,G2
+BOLL Timo (61),03:25.1,00:01.4,Garçons,Revers,,Att/att,Serveur Point +,,Controle / Résistance,D3
+BOLL Timo (62),03:29.4,00:01.4,Garçons,Coup droit,,Att/att,BOLL Timo,Latéral droit,,
+FLORE Tristan (66),03:30.8,00:02.8,Garçons,Coup droit,,Att/att,FLORE Tristan,,Controle / Résistance,D3
+BOLL Timo (63),03:33.6,00:00.4,Garçons,Coup droit,,Att/att,BOLL Timo,,Attaque / Offensif,D3
+FLORE Tristan (67),03:34.0,00:01.7,Garçons,Coup droit,,Att/att,FLORE Tristan,,Controle / Résistance,M3
+BOLL Timo (64),03:35.7,00:00.8,Garçons,Coup droit,,Att/att,BOLL Timo,,Attaque / Offensif,M3
+FLORE Tristan (68),03:36.5,00:01.9,Garçons,Revers,,Att/att,Serveur Point +,,Controle / Résistance,G3
+FLORE Tristan (69),03:40.7,00:00.0,Garçons,Coup droit,,Att/att,FLORE Tristan,Latéral droit,,
+FLORE Tristan (70),03:56.9,00:00.0,Garçons,Coup droit,,Att/att,FLORE Tristan,Latéral droit,,
+BOLL Timo (65),03:59.7,00:00.7,Garçons,Coup droit,,Att/att,Serveur Point +,,Poussette,M1
+BOLL Timo (66),04:03.7,00:01.0,Garçons,Coup droit,,Att/att,BOLL Timo,Latéral droit,,
+FLORE Tristan (71),04:05.2,00:00.5,Garçons,Revers,,Att/att,FLORE Tristan,,Controle / Résistance,G2
+BOLL Timo (67),04:05.7,00:00.8,Garçons,Revers,,Att/att,Serveur Point -,,Controle / Résistance,D3
+SET (2),04:08.2,00:00.0,Garçons,Droitier/gaucher,2,Att/att,,,,
+BOLL Timo (68),04:11.2,00:00.9,Garçons,Coup droit,SET,Att/att,BOLL Timo,Latéral gauche,,
+FLORE Tristan (72),04:12.7,00:00.4,Garçons,Revers,SET,Att/att,FLORE Tristan,,Poussette,M1
+BOLL Timo (69),04:13.1,00:00.6,Garçons,Coup droit,SET,Att/att,BOLL Timo,,Poussette,G2
+FLORE Tristan (73),04:13.8,00:00.5,Garçons,Revers,SET,Att/att,FLORE Tristan,,Attaque / Offensif,M2
+BOLL Timo (70),04:14.3,00:00.4,Garçons,Coup droit,SET,Att/att,BOLL Timo,,Attaque / Offensif,G2
+FLORE Tristan (74),04:14.7,00:00.6,Garçons,Revers,SET,Att/att,FLORE Tristan,,Controle / Résistance,G3
+BOLL Timo (71),04:15.3,00:00.6,Garçons,Coup droit,SET,Att/att,BOLL Timo,,Attaque / Offensif,G3
+FLORE Tristan (75),04:15.8,00:00.3,Garçons,Coup droit,SET,Att/att,FLORE Tristan,,Attaque / Offensif,M3
+BOLL Timo (72),04:16.1,00:00.8,Garçons,Revers,SET,Att/att,Serveur Point -,,Controle / Résistance,D3
+BOLL Timo (73),04:19.4,00:01.4,Garçons,Coup droit,SET,Att/att,BOLL Timo,Latéral droit,,
+FLORE Tristan (76),04:21.0,00:00.7,Garçons,Coup droit,SET,Att/att,FLORE Tristan,,Poussette,D1
+BOLL Timo (74),04:21.6,00:00.3,Garçons,Revers,SET,Att/att,BOLL Timo,,Attaque / Offensif,M1
+FLORE Tristan (77),04:22.0,00:00.9,Garçons,Revers,SET,Att/att,FLORE Tristan,,Controle / Résistance,G3
+BOLL Timo (75),04:22.8,00:00.9,Garçons,Coup droit,SET,Att/att,BOLL Timo,,Controle / Résistance,M3
+FLORE Tristan (78),04:23.7,00:00.9,Garçons,Revers,SET,Att/att,FLORE Tristan,,Controle / Résistance,G3
+BOLL Timo (76),04:24.6,00:00.8,Garçons,Coup droit,SET,Att/att,Serveur Point -,,Controle / Résistance,M3
+FLORE Tristan (79),04:27.9,00:00.0,Garçons,Coup droit,SET,Att/att,FLORE Tristan,Latéral droit,,
+BOLL Timo (77),04:30.5,00:00.5,Garçons,Revers,SET,Att/att,BOLL Timo,,Attaque / Offensif,M2
+FLORE Tristan (80),04:31.0,00:00.4,Garçons,Revers,SET,Att/att,FLORE Tristan,,Controle / Résistance,G3
+BOLL Timo (78),04:31.4,00:00.8,Garçons,Revers,SET,Att/att,BOLL Timo,,Attaque / Offensif,D3
+FLORE Tristan (81),04:32.2,00:01.2,Garçons,Coup droit,SET,Att/att,Serveur Point -,,Controle / Résistance,D2
+FLORE Tristan (82),04:36.0,00:00.0,Garçons,Coup droit,SET,Att/att,FLORE Tristan,Latéral droit,,
+BOLL Timo (79),04:38.2,00:00.5,Garçons,Revers,SET,Att/att,Serveur Point +,,Controle / Résistance,D3
+BOLL Timo (80),04:42.6,00:00.0,Garçons,Coup droit,SET,Att/att,BOLL Timo,Latéral gauche,,
+FLORE Tristan (83),04:43.9,00:00.6,Garçons,Coup droit,,Att/att,FLORE Tristan,,Poussette,D1
+BOLL Timo (81),04:44.5,00:00.7,Garçons,Coup droit,,Att/att,BOLL Timo,,Poussette,M1
+FLORE Tristan (84),04:45.2,00:00.6,Garçons,Coup droit,,Att/att,FLORE Tristan,,Controle / Résistance,M2
+BOLL Timo (82),04:45.8,00:00.8,Garçons,Revers,,Att/att,BOLL Timo,,Attaque / Offensif,D3
+FLORE Tristan (85),04:46.6,00:01.0,Garçons,Coup droit,,Att/att,FLORE Tristan,,Controle / Résistance,G3
+BOLL Timo (83),04:47.5,00:00.9,Garçons,Coup droit,,Att/att,BOLL Timo,,Attaque / Offensif,M3
+FLORE Tristan (86),04:48.4,00:01.1,Garçons,Coup droit,,Att/att,Serveur Point +,,Controle / Résistance,D3
+BOLL Timo (84),04:52.5,00:00.0,,Coup droit,,,SERVICE,Latéral droit,,
+BOLL Timo (85),05:00.6,00:01.7,,Coup droit,,,SERVICE,Latéral gauche,,
+FLORE Tristan (87),05:02.4,00:00.8,,Revers,,,FLORE Tristan,,Poussette,G1
+BOLL Timo (86),05:03.2,00:00.0,,Coup droit,,,BOLL Timo,,Controle / Résistance,G1
+FLORE Tristan (88),05:03.9,00:01.2,,Coup droit,,,FLORE Tristan,,Controle / Résistance,D3
+BOLL Timo (87),05:05.2,00:00.7,,Coup droit,,,BOLL Timo,,Attaque / Offensif,M3
+FLORE Tristan (89),05:05.8,00:01.2,,Revers,,,Serveur Point +,,Controle / Résistance,G3
+FLORE Tristan (90),05:09.4,00:02.6,,Coup droit,,,FLORE Tristan,Latéral droit,,
+BOLL Timo (88),05:12.0,00:00.8,,Coup droit,,,BOLL Timo,,Poussette,M2
+FLORE Tristan (91),05:12.8,00:00.4,,Coup droit,,,FLORE Tristan,,Attaque / Offensif,D3
+BOLL Timo (89),05:13.2,00:00.6,,Coup droit,,,BOLL Timo,,Controle / Résistance,M3
+FLORE Tristan (92),05:13.8,00:00.3,,Coup droit,,,FLORE Tristan,,Attaque / Offensif,D3
+BOLL Timo (90),05:14.2,00:08.4,,Revers,,,BOLL Timo,,Controle / Résistance,M3
+FLORE Tristan (93),05:14.9,00:00.4,,Coup droit,,,FLORE Tristan,,Attaque / Offensif,D3
+BOLL Timo (91),05:15.3,00:00.5,,Coup droit,,,Serveur Point +,,Controle / Résistance,M3
+FLORE Tristan (94),05:18.1,00:02.4,,Coup droit,,,FLORE Tristan,Latéral droit,,
+BOLL Timo (92),05:20.7,00:00.8,,Coup droit,,,BOLL Timo,,Poussette,D2
+FLORE Tristan (95),05:21.5,00:00.4,,Coup droit,,,FLORE Tristan,,Attaque / Offensif,D2
+BOLL Timo (93),05:21.9,00:00.7,,Revers,,,BOLL Timo,,Controle / Résistance,M3
+FLORE Tristan (96),05:22.6,00:00.4,,Coup droit,,,FLORE Tristan,,Attaque / Offensif,D3
+BOLL Timo (94),05:23.0,00:00.9,,Revers,,,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (97),05:23.9,00:00.4,,Coup droit,,,FLORE Tristan,,Attaque / Offensif,M3
+BOLL Timo (95),05:24.2,00:00.6,,Revers,,,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (98),05:24.8,00:01.7,,Coup droit,,,FLORE Tristan,,Attaque / Offensif,M3
+BOLL Timo (96),05:26.5,00:00.6,,Revers,,,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (99),05:27.1,00:00.7,,Revers,,,FLORE Tristan,,Controle / Résistance,G3
+BOLL Timo (97),05:27.8,00:00.5,,Revers,,,Serveur Point +,,Attaque / Offensif,D3
+BOLL Timo (98),05:31.0,00:01.6,,Coup droit,,,BOLL Timo,Latéral droit,,
+FLORE Tristan (100),05:32.8,00:00.7,,Coup droit,,,FLORE Tristan,,Poussette,M1
+BOLL Timo (99),05:33.4,00:00.5,,Revers,,,Serveur Point -,,Poussette,M1
+BOLL Timo (100),05:35.1,00:00.7,,Coup droit,,,BOLL Timo,Latéral gauche,,
+FLORE Tristan (101),05:36.4,00:00.7,,Coup droit,,,FLORE Tristan,,Poussette,D2
+BOLL Timo (101),05:37.1,00:00.5,,Revers,,,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (102),05:37.6,00:00.7,,Revers,,,FLORE Tristan,,Controle / Résistance,G3
+BOLL Timo (102),05:38.3,00:00.7,,Coup droit,,,Serveur Point -,,Controle / Résistance,G3
+FLORE Tristan (103),05:41.7,00:02.5,,Coup droit,,,FLORE Tristan,Latéral droit,,
+BOLL Timo (103),05:44.4,00:00.6,,Coup droit,,,BOLL Timo,,Poussette,M1
+FLORE Tristan (104),05:45.0,00:00.6,,Coup droit,,,Serveur Point +,,Attaque / Offensif,D3
+FLORE Tristan (105),05:48.7,00:02.7,,Coup droit,,,FLORE Tristan,Latéral droit,,
+BOLL Timo (104),05:51.4,00:10.1,,Revers,,,BOLL Timo,,Attaque / Offensif,M3
+FLORE Tristan (105.5),05:52.0,00:00.0,,Coup droit,,,Serveur Point -,,Controle / Résistance,M1
+FLORE Tristan (106),06:01.5,00:02.1,,Coup droit,,,FLORE Tristan,Latéral droit,,
+BOLL Timo (105),06:03.9,00:00.8,,Coup droit,,,BOLL Timo,,Poussette,G3
+FLORE Tristan (107),06:04.7,00:01.7,,Coup droit,,,Serveur Point -,,Controle / Résistance,M1
+BOLL Timo (106),06:08.2,00:01.1,,Coup droit,,,BOLL Timo,Latéral gauche,,
+FLORE Tristan (108),06:09.7,00:00.5,,Coup droit,,,FLORE Tristan,,Poussette,G1
+BOLL Timo (107),06:10.2,00:00.6,,Coup droit,,,BOLL Timo,,Controle / Résistance,M1
+FLORE Tristan (109),06:10.8,00:00.5,,Revers,,,FLORE Tristan,,Controle / Résistance,M3
+BOLL Timo (108),06:11.3,00:00.4,,Coup droit,,,BOLL Timo,,Attaque / Offensif,M3
+FLORE Tristan (110),06:11.7,00:00.9,,Revers,,,FLORE Tristan,,Controle / Résistance,G3
+BOLL Timo (109),06:12.6,00:00.7,,Coup droit,,,BOLL Timo,,Attaque / Offensif,M3
+FLORE Tristan (111),06:13.3,00:00.7,,Revers,,,FLORE Tristan,,Attaque / Offensif,G3
+BOLL Timo (110),06:13.9,00:00.6,,Coup droit,,,BOLL Timo,,Attaque / Offensif,G3
+FLORE Tristan (112),06:14.5,00:00.5,,Coup droit,,,FLORE Tristan,,Attaque / Offensif,M3
+BOLL Timo (111),06:15.0,00:00.7,,Coup droit,,,Serveur Point -,,Attaque / Offensif,M3
+BOLL Timo (112),06:18.4,00:00.8,,Coup droit,,,BOLL Timo,Latéral droit,,
+FLORE Tristan (113),06:19.9,00:00.6,,Coup droit,,,FLORE Tristan,,Poussette,D2
+BOLL Timo (113),06:20.4,00:00.7,,Revers,,,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (114),06:21.1,00:00.8,,Coup droit,,,FLORE Tristan,,Controle / Résistance,M3
+BOLL Timo (114),06:21.9,00:00.6,,Revers,,,BOLL Timo,,Attaque / Offensif,D3
+FLORE Tristan (115),06:22.5,00:00.4,,Coup droit,,,FLORE Tristan,,Attaque / Offensif,D3
+BOLL Timo (115),06:22.9,00:00.7,,Revers,,,Serveur Point -,,Attaque / Offensif,D3
+FLORE Tristan (116),06:25.9,00:02.1,,Coup droit,,,FLORE Tristan,Latéral droit,,
+BOLL Timo (116),06:28.5,00:00.6,,Coup droit,,,BOLL Timo,,Poussette,M1
+FLORE Tristan (117),06:29.1,00:00.6,,Revers,,,FLORE Tristan,,Controle / Résistance,M1
+BOLL Timo (117),06:29.7,00:00.7,,Revers,,,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (118),06:30.4,00:00.5,,Coup droit,,,FLORE Tristan,,Attaque / Offensif,M3
+BOLL Timo (118),06:30.9,00:00.6,,Revers,,,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (119),06:31.4,00:00.5,,Coup droit,,,FLORE Tristan,,Attaque / Offensif,M3
+BOLL Timo (119),06:31.9,00:02.2,,Coup droit,3,,Serveur Point +,,Controle / Résistance,G3
+SET (3),06:34.1,00:00.0,,,SET,,,,,
+FLORE Tristan (120),06:37.3,00:02.1,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (120),06:40.1,00:00.5,,Revers,SET,,BOLL Timo,,Controle / Résistance,M2
+FLORE Tristan (121),06:40.5,00:00.7,,Revers,SET,,FLORE Tristan,,Controle / Résistance,M3
+BOLL Timo (121),06:41.2,00:00.7,,Coup droit,SET,,Serveur Point +,,Attaque / Offensif,G3
+FLORE Tristan (122),06:44.2,00:02.9,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (122),06:47.2,00:00.3,,Revers,SET,,Serveur Point +,,Attaque / Offensif,G1
+BOLL Timo (123),06:51.2,00:00.9,,Coup droit,SET,,BOLL Timo,Latéral gauche,,
+FLORE Tristan (123),06:52.8,00:00.7,,Coup droit,SET,,FLORE Tristan,,Poussette,D1
+BOLL Timo (124),06:53.5,00:00.6,,Coup droit,SET,,BOLL Timo,,Controle / Résistance,M1
+FLORE Tristan (124),06:54.1,00:00.9,,Revers,SET,,FLORE Tristan,,Controle / Résistance,G3
+BOLL Timo (125),06:55.0,00:00.8,,Coup droit,SET,,BOLL Timo,,Controle / Résistance,G3
+FLORE Tristan (125),06:55.8,00:01.0,,Revers,SET,,FLORE Tristan,,Controle / Résistance,G3
+BOLL Timo (126),06:56.8,00:00.7,,Coup droit,SET,,BOLL Timo,,Controle / Résistance,M3
+FLORE Tristan (126),06:57.5,00:00.8,,Revers,SET,,FLORE Tristan,,Controle / Résistance,M3
+BOLL Timo (127),06:58.3,00:01.1,,Coup droit,SET,,Serveur Point -,,Attaque / Offensif,M3
+BOLL Timo (128),07:01.5,00:00.9,,Coup droit,SET,,BOLL Timo,Latéral droit,,
+BOLL Timo (129),07:09.5,00:00.8,,Coup droit,SET,,BOLL Timo,Latéral droit,,
+FLORE Tristan (127),07:10.9,00:00.6,,Coup droit,SET,,FLORE Tristan,,Poussette,D2
+BOLL Timo (130),07:11.5,00:00.5,,Revers,SET,,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (128),07:11.9,00:01.1,,Revers,SET,,FLORE Tristan,,Controle / Résistance,G3
+BOLL Timo (131),07:13.0,00:00.3,,Coup droit,SET,,BOLL Timo,,Attaque / Offensif,M2
+FLORE Tristan (129),07:13.3,00:00.0,,Revers,SET,,Serveur Point +,,Controle / Résistance,G3
+FLORE Tristan (130),07:16.4,00:00.0,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (132),07:19.6,00:00.7,,Coup droit,SET,,BOLL Timo,,Controle / Résistance,G2
+FLORE Tristan (131),07:20.2,00:00.4,,Coup droit,SET,,FLORE Tristan,,Attaque / Offensif,G3
+BOLL Timo (133),07:20.6,00:00.6,,Coup droit,SET,,BOLL Timo,,Controle / Résistance,G3
+FLORE Tristan (132),07:21.2,00:00.6,,Coup droit,SET,,FLORE Tristan,,Controle / Résistance,M3
+BOLL Timo (134),07:21.8,00:00.8,,Revers,SET,,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (133),07:22.6,00:00.7,,Coup droit,SET,,FLORE Tristan,,Controle / Résistance,M3
+BOLL Timo (135),07:23.3,00:00.8,,Coup droit,SET,,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (134),07:24.1,00:01.4,,Revers,SET,,Serveur Point -,,Attaque / Offensif,G3
+FLORE Tristan (135),07:26.9,00:02.7,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (136),07:30.0,00:00.7,,Revers,SET,,Serveur Point +,,Controle / Résistance,M2
+BOLL Timo (137),07:33.6,00:00.8,,Coup droit,SET,,BOLL Timo,Latéral gauche,,
+FLORE Tristan (136),07:34.9,00:00.5,,Revers,SET,,FLORE Tristan,,Poussette,M1
+BOLL Timo (138),07:35.4,00:00.6,,Coup droit,SET,,BOLL Timo,,Poussette,G1
+FLORE Tristan (137),07:36.0,00:00.6,,Revers,SET,,FLORE Tristan,,Controle / Résistance,M2
+BOLL Timo (139),07:36.5,00:00.4,,Coup droit,SET,,BOLL Timo,,Attaque / Offensif,M3
+FLORE Tristan (138),07:37.0,00:00.8,,Coup droit,SET,,Serveur Point +,,Controle / Résistance,M3
+BOLL Timo (140),07:40.4,00:00.8,,Coup droit,SET,,BOLL Timo,Latéral gauche,,
+FLORE Tristan (139),07:41.9,00:01.2,,Revers,SET,,Serveur Point +,,Controle / Résistance,G3
+FLORE Tristan (140),07:45.6,00:02.7,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (141),07:48.3,00:00.4,,Revers,SET,,Serveur Point +,,Controle / Résistance,M1
+FLORE Tristan (141),07:50.5,00:02.2,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (142),07:53.5,00:00.7,,Coup droit,SET,,Serveur Point +,,Poussette,G2
+BOLL Timo (143),07:57.6,00:00.9,,Coup droit,SET,,BOLL Timo,Latéral gauche,,
+FLORE Tristan (142),07:59.0,00:00.5,,Coup droit,SET,,FLORE Tristan,,Poussette,M2
+BOLL Timo (144),07:59.5,00:00.7,,Coup droit,SET,,BOLL Timo,,Poussette,M1
+FLORE Tristan (143),08:00.2,00:01.4,,Coup droit,SET,,Serveur Point -,,Attaque / Offensif,M2
+BOLL Timo (145),08:04.0,00:00.8,,Coup droit,SET,,BOLL Timo,Latéral droit,,
+FLORE Tristan (144),08:05.6,00:00.7,,Coup droit,SET,,FLORE Tristan,,Poussette,D1
+BOLL Timo (146),08:06.2,00:00.5,,Revers,SET,,BOLL Timo,,Attaque / Offensif,M2
+FLORE Tristan (145),08:06.7,00:00.5,,Coup droit,SET,,FLORE Tristan,,Attaque / Offensif,D3
+BOLL Timo (147),08:07.2,00:00.7,,Revers,SET,,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (146),08:07.9,00:00.7,,Coup droit,SET,,FLORE Tristan,,Controle / Résistance,D3
+BOLL Timo (148),08:08.6,00:00.5,,Coup droit,SET,,BOLL Timo,,Attaque / Offensif,D3
+FLORE Tristan (147),08:09.0,00:00.6,,Coup droit,SET,,Serveur Point +,,Controle / Résistance,D3
+FLORE Tristan (148),08:11.4,00:02.1,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (149),08:14.3,00:00.4,,Coup droit,SET,,Serveur Point +,,Poussette,M1
+FLORE Tristan (149),08:17.5,00:01.8,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (150),08:20.0,00:00.7,,Coup droit,SET,,BOLL Timo,,Poussette,G2
+FLORE Tristan (150),08:20.7,00:00.8,,Revers,SET,,FLORE Tristan,,Controle / Résistance,G3
+BOLL Timo (151),08:21.5,00:00.6,,Coup droit,SET,,Serveur Point +,,Attaque / Offensif,M3
+BOLL Timo (152),08:24.8,00:00.8,,Coup droit,SET,,BOLL Timo,Latéral gauche,,
+FLORE Tristan (151),08:26.2,00:00.6,,Coup droit,SET,,FLORE Tristan,,Poussette,M1
+BOLL Timo (153),08:26.8,00:00.3,,Coup droit,SET,,BOLL Timo,,Attaque / Offensif,M2
+FLORE Tristan (152),08:27.1,00:00.7,,Coup droit,SET,,FLORE Tristan,,Controle / Résistance,D3
+BOLL Timo (154),08:27.7,00:00.4,,Coup droit,SET,,BOLL Timo,,Controle / Résistance,M3
+FLORE Tristan (153),08:28.2,00:00.7,,Revers,SET,,Serveur Point +,,Attaque / Offensif,M3
+BOLL Timo (155),08:30.2,00:00.7,,Coup droit,SET,,BOLL Timo,Latéral gauche,,
+FLORE Tristan (154),08:31.6,00:00.6,,Revers,SET,,Serveur Point +,,Attaque / Offensif,G1
+FLORE Tristan (155),08:34.8,00:02.4,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (156),08:37.7,00:00.4,,Revers,SET,,BOLL Timo,,Controle / Résistance,G1
+FLORE Tristan (156),08:38.1,00:00.8,,Revers,SET,,Serveur Point -,,Controle / Résistance,G3
+FLORE Tristan (157),08:47.2,00:02.4,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (157),08:50.2,00:00.4,,Coup droit,SET,,BOLL Timo,,Attaque / Offensif,M2
+FLORE Tristan (158),08:50.6,00:00.6,,Coup droit,SET,,Serveur Point -,,Controle / Résistance,G3
+BOLL Timo (158),08:55.0,00:00.7,,Coup droit,SET,,BOLL Timo,Latéral gauche,,
+FLORE Tristan (159),08:56.2,00:00.9,,Coup droit,SET,,FLORE Tristan,,Poussette,G1
+BOLL Timo (159),08:57.0,00:00.7,,Coup droit,SET,,BOLL Timo,,Controle / Résistance,M2
+FLORE Tristan (160),08:57.7,00:00.8,,Revers,SET,,FLORE Tristan,,Controle / Résistance,M3
+BOLL Timo (160),08:58.4,00:00.5,,Revers,SET,,BOLL Timo,,Attaque / Offensif,D3
+FLORE Tristan (161),08:58.9,00:00.7,,Coup droit,SET,,Serveur Point +,,Controle / Résistance,D3
+BOLL Timo (161),09:03.0,00:00.7,,Coup droit,,,BOLL Timo,Latéral droit,,
+FLORE Tristan (162),09:04.5,00:00.5,,Coup droit,,,FLORE Tristan,,Controle / Résistance,D2
+BOLL Timo (162),09:05.0,00:00.7,,Revers,,,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (163),09:05.7,00:00.7,,Coup droit,,,Serveur Point -,,Attaque / Offensif,M3
+FLORE Tristan (164),09:09.0,00:02.3,,Coup droit,,,FLORE Tristan,Latéral droit,,
+BOLL Timo (163),09:12.0,00:00.8,,Revers,,,BOLL Timo,,Controle / Résistance,M1
+FLORE Tristan (165),09:12.8,00:00.0,,Revers,,,Serveur Point -,,Attaque / Offensif,M3
+BOLL Timo (164),09:16.2,00:00.7,,Coup droit,,,BOLL Timo,Latéral gauche,,
+FLORE Tristan (166),09:17.5,00:00.6,,Revers,,,FLORE Tristan,,Attaque / Offensif,G3
+BOLL Timo (165),09:18.1,00:00.9,,Revers,,,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (167),09:19.0,00:01.0,,Coup droit,,,Serveur Point +,,Controle / Résistance,D3
+SET (4),09:20.6,03:18.6,,,SET,,,,,
+BOLL Timo (166),09:20.6,00:03.6,,Coup droit,SET,,BOLL Timo,Latéral droit,,
+FLORE Tristan (168),09:25.0,00:00.3,,Revers,SET,,Serveur Point +,,Attaque / Offensif,M2
+BOLL Timo (167),09:28.1,00:00.7,,Coup droit,SET,,BOLL Timo,Latéral gauche,,
+FLORE Tristan (169),09:29.4,00:00.0,,Revers,SET,,Serveur Point +,,Attaque / Offensif,M2
+FLORE Tristan (170),09:32.1,00:02.0,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (168),09:34.7,00:00.6,,Revers,SET,,BOLL Timo,,Controle / Résistance,D2
+FLORE Tristan (171),09:35.2,00:00.3,,Revers,SET,,FLORE Tristan,,Attaque / Offensif,G3
+BOLL Timo (169),09:35.5,00:00.5,,Coup droit,SET,,BOLL Timo,,Controle / Résistance,G3
+FLORE Tristan (172),09:36.0,00:00.4,,Revers,SET,,FLORE Tristan,,Attaque / Offensif,G3
+BOLL Timo (170),09:36.3,00:00.4,,Revers,SET,,BOLL Timo,,Controle / Résistance,M3
+FLORE Tristan (173),09:36.8,00:00.4,,Coup droit,SET,,Serveur Point -,,Attaque / Offensif,G3
+FLORE Tristan (174),09:39.2,00:02.0,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (171),09:41.8,00:00.5,,Coup droit,SET,,BOLL Timo,,Poussette,M1
+FLORE Tristan (175),09:42.2,00:00.5,,Coup droit,SET,,Serveur Point +,,Attaque / Offensif,M2
+BOLL Timo (172),09:46.3,00:00.7,,Coup droit,SET,,BOLL Timo,Latéral droit,,
+FLORE Tristan (176),09:47.5,00:00.6,,Coup droit,SET,,FLORE Tristan,,Poussette,D1
+BOLL Timo (173),09:48.1,00:00.8,,Revers,SET,,BOLL Timo,,Poussette,M1
+FLORE Tristan (177),09:48.9,00:00.4,,Coup droit,SET,,FLORE Tristan,,Attaque / Offensif,M3
+BOLL Timo (174),09:49.3,00:00.6,,Coup droit,SET,,BOLL Timo,,Attaque / Offensif,G3
+FLORE Tristan (178),09:49.9,00:00.5,,Coup droit,SET,,Serveur Point +,,Attaque / Offensif,G3
+BOLL Timo (175),09:53.5,00:00.7,,Coup droit,SET,,BOLL Timo,Latéral droit,,
+FLORE Tristan (179),09:54.8,00:00.7,,Revers,SET,,FLORE Tristan,,Poussette,G1
+BOLL Timo (176),09:55.5,00:00.5,,Coup droit,SET,,BOLL Timo,,Poussette,M1
+FLORE Tristan (180),09:56.0,00:00.7,,Coup droit,SET,,FLORE Tristan,,Poussette,M1
+BOLL Timo (177),09:56.6,00:00.6,,Revers,SET,,BOLL Timo,,Poussette,M1
+FLORE Tristan (181),09:57.2,00:00.4,,Coup droit,SET,,FLORE Tristan,,Attaque / Offensif,G3
+BOLL Timo (178),09:57.6,00:00.7,,Coup droit,SET,,Serveur Point -,,Controle / Résistance,G3
+FLORE Tristan (182),10:00.1,00:00.8,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (179),10:01.5,00:00.9,,Revers,SET,,Serveur Point -,,Poussette,M2
+FLORE Tristan (183),10:05.7,00:01.9,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (180),10:08.0,00:00.5,,Coup droit,SET,,BOLL Timo,,Poussette,M2
+FLORE Tristan (184),10:08.5,00:00.6,,Coup droit,SET,,Serveur Point -,,Controle / Résistance,D2
+BOLL Timo (181),10:12.5,00:00.6,,Coup droit,SET,,BOLL Timo,Latéral droit,,
+FLORE Tristan (185),10:13.8,00:00.6,,Coup droit,SET,,FLORE Tristan,,Attaque / Offensif,M1
+BOLL Timo (182),10:14.3,00:00.5,,Revers,SET,,Serveur Point -,,Attaque / Offensif,D3
+BOLL Timo (183),10:18.2,00:00.0,,Coup droit,SET,,BOLL Timo,Latéral gauche,,
+FLORE Tristan (186),10:19.5,00:00.6,,Revers,SET,,FLORE Tristan,,Poussette,G1
+BOLL Timo (184),10:20.1,00:00.7,,Coup droit,SET,,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (187),10:20.7,00:00.4,,Coup droit,SET,,FLORE Tristan,,Attaque / Offensif,D3
+BOLL Timo (185),10:21.1,00:00.6,,Revers,SET,,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (188),10:21.7,00:00.6,,Coup droit,SET,,Serveur Point +,,Attaque / Offensif,M3
+FLORE Tristan (189),10:24.3,00:01.1,,Coup droit,SET,,FLORE Tristan,Latéral gauche,,
+BOLL Timo (186),10:25.6,00:01.0,,Coup droit,SET,,BOLL Timo,,Controle / Résistance,G2
+FLORE Tristan (190),10:26.6,00:00.7,,Coup droit,SET,,Serveur Point -,,Attaque / Offensif,M3
+FLORE Tristan (191),10:29.1,00:01.1,,Coup droit,SET,,FLORE Tristan,Latéral gauche,,
+FLORE Tristan (192),10:39.7,00:01.1,,Coup droit,SET,,FLORE Tristan,Latéral gauche,,
+BOLL Timo (187),10:41.4,00:00.5,,Coup droit,SET,,BOLL Timo,,Attaque / Offensif,G2
+FLORE Tristan (193),10:41.8,00:00.5,,Revers,SET,,FLORE Tristan,,Attaque / Offensif,G3
+BOLL Timo (188),10:42.3,00:00.3,,Revers,SET,,BOLL Timo,,Attaque / Offensif,D3
+FLORE Tristan (194),10:42.6,00:00.5,,Coup droit,SET,,FLORE Tristan,,Attaque / Offensif,G3
+BOLL Timo (189),10:43.0,00:00.3,,Revers,SET,,Serveur Point +,,Attaque / Offensif,D3
+BOLL Timo (190),10:46.7,00:00.6,,Coup droit,SET,,BOLL Timo,Latéral droit,,
+FLORE Tristan (195),10:48.0,00:00.6,,Coup droit,SET,,FLORE Tristan,,Poussette,M1
+BOLL Timo (191),10:48.6,00:00.3,,Revers,SET,,Serveur Point -,,Attaque / Offensif,D2
+BOLL Timo (192),10:52.2,00:00.9,,Coup droit,SET,,BOLL Timo,Latéral gauche,,
+FLORE Tristan (196),10:53.8,00:00.5,,Coup droit,SET,,FLORE Tristan,,Poussette,M1
+BOLL Timo (193),10:54.2,00:01.0,,Revers,SET,,Serveur Point -,,Controle / Résistance,M1
+FLORE Tristan (197),10:57.4,00:02.5,,Coup droit,SET,,FLORE Tristan,Latéral gauche,,
+FLORE Tristan (198),11:07.5,00:02.2,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (195),11:09.9,00:00.0,,Revers,SET,,Serveur Point +,,Controle / Résistance,D3
+FLORE Tristan (199),11:16.5,00:02.1,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (196),11:19.0,00:00.7,,Coup droit,SET,,Serveur Point +,,Poussette,M1
+BOLL Timo (197),11:28.6,00:00.6,,Coup droit,SET,,BOLL Timo,Latéral gauche,,
+FLORE Tristan (200),11:29.8,00:00.8,,Revers,SET,,FLORE Tristan,,Poussette,G1
+BOLL Timo (198),11:30.6,00:00.4,,Coup droit,SET,,BOLL Timo,,Poussette,M1
+FLORE Tristan (201),11:31.0,00:00.6,,Revers,SET,,FLORE Tristan,,Attaque / Offensif,G2
+BOLL Timo (199),11:31.5,00:01.0,,Revers,SET,,Serveur Point -,,Controle / Résistance,D3
+BOLL Timo (200),11:35.9,00:00.7,,Coup droit,SET,,BOLL Timo,Latéral gauche,,
+FLORE Tristan (202),11:37.0,00:00.9,,Revers,SET,,FLORE Tristan,,Controle / Résistance,G3
+BOLL Timo (201),11:37.9,00:00.5,,Coup droit,SET,,BOLL Timo,,Attaque / Offensif,M3
+FLORE Tristan (203),11:38.5,00:01.0,,Revers,SET,,FLORE Tristan,,Controle / Résistance,G3
+BOLL Timo (202),11:39.5,00:00.7,,Coup droit,SET,,Serveur Point +,,Controle / Résistance,D3
+FLORE Tristan (205),11:43.3,00:02.0,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (203),11:45.7,00:00.0,,Coup droit,SET,,BOLL Timo,,Poussette,M1
+FLORE Tristan (206),11:46.5,00:01.4,,Coup droit,SET,,FLORE Tristan,,Controle / Résistance,D3
+BOLL Timo (204),11:48.0,00:01.2,,Coup droit,SET,,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (207),11:49.2,00:00.8,,Coup droit,SET,,FLORE Tristan,,Controle / Résistance,D2
+BOLL Timo (205),11:49.9,00:01.2,,Revers,SET,,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (208),11:51.1,00:01.2,,Revers,SET,,FLORE Tristan,,Controle / Résistance,M3
+BOLL Timo (206),11:52.3,00:00.3,,Coup droit,SET,,BOLL Timo,,Attaque / Offensif,M2
+FLORE Tristan (209),11:52.6,00:00.7,,Revers,SET,,FLORE Tristan,,Controle / Résistance,G3
+BOLL Timo (207),11:53.4,00:01.2,,Coup droit,SET,,Serveur Point +,,Controle / Résistance,M3
+FLORE Tristan (210),11:57.9,00:02.0,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+FLORE Tristan (211),12:12.9,00:02.0,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (208),12:15.5,00:00.9,,Coup droit,SET,,BOLL Timo,,Poussette,D1
+FLORE Tristan (212),12:16.4,00:00.1,,Coup droit,SET,,FLORE Tristan,,Attaque / Offensif,D3
+BOLL Timo (209),12:16.5,00:00.5,,Coup droit,SET,,BOLL Timo,,Controle / Résistance,M3
+FLORE Tristan (213),12:17.0,00:00.7,,Coup droit,SET,,FLORE Tristan,,Attaque / Offensif,M3
+BOLL Timo (210),12:17.7,00:00.6,,Revers,SET,,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (214),12:18.3,00:00.5,,Coup droit,SET,,FLORE Tristan,,Attaque / Offensif,M3
+BOLL Timo (211),12:18.8,00:01.1,,Coup droit,SET,,BOLL Timo,,Controle / Résistance,G3
+FLORE Tristan (215),12:19.9,00:00.9,,Coup droit,SET,,Serveur Point -,,Attaque / Offensif,D3
+BOLL Timo (212),12:25.1,00:00.5,,Coup droit,SET,,BOLL Timo,Latéral droit,,
+FLORE Tristan (216),12:26.4,00:00.7,,Revers,SET,,FLORE Tristan,,Poussette,D1
+BOLL Timo (213),12:27.1,00:00.6,,Coup droit,SET,,BOLL Timo,,Poussette,M1
+FLORE Tristan (217),12:27.7,00:00.6,,Coup droit,SET,,FLORE Tristan,,Attaque / Offensif,M3
+BOLL Timo (214),12:28.3,00:00.6,,Revers,SET,,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (218),12:28.9,00:00.4,,Coup droit,SET,,FLORE Tristan,,Attaque / Offensif,M3
+BOLL Timo (215),12:29.3,00:00.8,,Revers,SET,,BOLL Timo,,Controle / Résistance,M3
+FLORE Tristan (219),12:30.1,00:00.4,,Coup droit,SET,,FLORE Tristan,,Attaque / Offensif,G3
+BOLL Timo (216),12:30.5,00:01.1,,Revers,SET,,Serveur Point -,,Controle / Résistance,D3
+FLORE Tristan (220),12:34.0,00:02.1,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (217),12:36.6,00:01.7,,Coup droit,SET,,Serveur Point +,,Poussette,M1
+SET (5),12:39.2,00:00.0,,,Set décisif,,,,,
+FLORE Tristan (221),12:41.1,00:02.1,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (218),12:44.0,00:00.4,,Coup droit,SET,,BOLL Timo,,Attaque / Offensif,M2
+FLORE Tristan (222),12:44.4,00:00.8,,Revers,SET,,FLORE Tristan,,Controle / Résistance,M3
+BOLL Timo (219),12:45.2,00:00.6,,Coup droit,SET,,BOLL Timo,,Attaque / Offensif,M3
+FLORE Tristan (223),12:45.8,00:02.2,,Revers,SET,,Serveur Point -,,Controle / Résistance,G3
+FLORE Tristan (224),12:49.8,00:02.2,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (220),12:52.7,00:00.5,,Coup droit,SET,,BOLL Timo,,Poussette,M1
+FLORE Tristan (225),12:53.2,00:00.6,,Coup droit,SET,,Serveur Point +,,Attaque / Offensif,G3
+BOLL Timo (221),12:56.1,00:00.9,,Coup droit,SET,,BOLL Timo,Latéral gauche,,
+FLORE Tristan (226),12:57.5,00:00.6,,Revers,SET,,FLORE Tristan,,Poussette,G1
+BOLL Timo (222),12:58.1,00:00.6,,Coup droit,SET,,BOLL Timo,,Poussette,M1
+FLORE Tristan (227),12:58.7,00:00.4,,Revers,SET,,FLORE Tristan,,Attaque / Offensif,M3
+BOLL Timo (223),12:59.1,00:01.7,,Revers,SET,,Serveur Point -,,Attaque / Offensif,D3
+BOLL Timo (224),13:01.9,00:00.7,,Coup droit,SET,,BOLL Timo,Latéral droit,,
+FLORE Tristan (228),13:03.3,00:00.4,,Coup droit,SET,,FLORE Tristan,,Attaque / Offensif,D3
+BOLL Timo (225),13:03.7,00:00.8,,Revers,SET,,BOLL Timo,,Controle / Résistance,M3
+FLORE Tristan (229),13:04.4,00:00.8,,Coup droit,SET,,FLORE Tristan,,Controle / Résistance,G3
+BOLL Timo (226),13:05.2,00:00.5,,Coup droit,SET,,Serveur Point -,,Attaque / Offensif,D2
+FLORE Tristan (230),13:07.6,00:02.2,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (227),13:10.5,00:01.0,,Coup droit,SET,,BOLL Timo,,Controle / Résistance,G1
+FLORE Tristan (231),13:11.5,00:00.5,,Coup droit,SET,,Serveur Point -,,Attaque / Offensif,G3
+FLORE Tristan (232),13:14.6,00:02.3,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (228),13:17.4,00:00.4,,Coup droit,SET,,BOLL Timo,,Poussette,M1
+FLORE Tristan (233),13:17.9,00:00.6,,Coup droit,SET,,FLORE Tristan,,Attaque / Offensif,D3
+BOLL Timo (229),13:18.4,00:00.6,,Revers,SET,,BOLL Timo,,Controle / Résistance,M3
+FLORE Tristan (234),13:19.0,00:00.5,,Coup droit,SET,,FLORE Tristan,,Attaque / Offensif,D3
+BOLL Timo (230),13:19.4,00:00.6,,Revers,SET,,BOLL Timo,,Controle / Résistance,D3
+FLORE Tristan (235),13:20.0,00:00.6,,Coup droit,SET,,FLORE Tristan,,Attaque / Offensif,M3
+BOLL Timo (231),13:20.6,00:00.6,,Revers,SET,,Serveur Point +,,Controle / Résistance,M3
+BOLL Timo (232),13:24.5,00:00.6,,Coup droit,SET,,BOLL Timo,Latéral droit,,
+FLORE Tristan (236),13:25.6,00:00.5,,Coup droit,SET,,FLORE Tristan,,Poussette,D1
+BOLL Timo (233),13:26.1,00:00.1,,Revers,SET,,Serveur Point -,,Attaque / Offensif,M1
+BOLL Timo (234),13:29.9,00:00.8,,Coup droit,SET,,BOLL Timo,Latéral gauche,,
+FLORE Tristan (237),13:31.1,00:00.5,,Revers,SET,,FLORE Tristan,,Poussette,M1
+BOLL Timo (235),13:31.6,00:00.6,,Coup droit,SET,,BOLL Timo,,Poussette,M1
+FLORE Tristan (238),13:32.2,00:00.5,,Revers,SET,,FLORE Tristan,,Attaque / Offensif,G3
+BOLL Timo (236),13:32.6,00:00.7,,Revers,SET,,Serveur Point -,,Controle / Résistance,M3
+FLORE Tristan (239),13:35.8,00:02.0,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (237),13:38.4,00:01.0,,Revers,SET,,Serveur Point +,,Attaque / Offensif,M1
+FLORE Tristan (240),13:41.5,00:02.2,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (238),13:44.4,00:00.5,,Coup droit,SET,,BOLL Timo,,Poussette,M1
+FLORE Tristan (241),13:44.9,00:00.7,,Coup droit,SET,,FLORE Tristan,,Poussette,D1
+BOLL Timo (239),13:45.5,00:00.7,,Revers,SET,,BOLL Timo,,Controle / Résistance,M1
+FLORE Tristan (242),13:46.2,00:01.0,,Revers,SET,,FLORE Tristan,,Controle / Résistance,G3
+BOLL Timo (240),13:47.2,00:00.4,,Coup droit,SET,,BOLL Timo,,Attaque / Offensif,M2
+FLORE Tristan (243),13:47.6,00:00.7,,Coup droit,SET,,FLORE Tristan,,Controle / Résistance,D3
+BOLL Timo (241),13:48.3,00:00.4,,Coup droit,SET,,BOLL Timo,,Attaque / Offensif,M3
+FLORE Tristan (244),13:48.7,00:00.0,,Revers,SET,,Serveur Point +,,Controle / Résistance,G3
+BOLL Timo (242),13:52.1,00:00.8,,Coup droit,SET,,BOLL Timo,Latéral gauche,,
+FLORE Tristan (245),13:53.3,00:00.7,,Revers,SET,,FLORE Tristan,,Poussette,G3
+BOLL Timo (243),13:54.0,00:00.4,,Coup droit,SET,,BOLL Timo,,Attaque / Offensif,M2
+FLORE Tristan (246),13:54.4,00:00.5,,Revers,SET,,FLORE Tristan,,Attaque / Offensif,G3
+BOLL Timo (244),13:54.9,00:02.0,,Revers,SET,,Serveur Point +,,Attaque / Offensif,D3
+BOLL Timo (245),13:58.1,00:01.0,,Coup droit,SET,,BOLL Timo,Latéral droit,,
+FLORE Tristan (247),13:59.4,00:00.4,,Coup droit,SET,,FLORE Tristan,,Attaque / Offensif,D3
+BOLL Timo (246),13:59.8,00:00.1,,Coup droit,SET,,Serveur Point -,,Attaque / Offensif,M3
+FLORE Tristan (248),14:02.6,00:02.5,,Revers,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (247),14:05.6,00:00.6,,Coup droit,SET,,BOLL Timo,,Poussette,M1
+FLORE Tristan (249),14:06.2,00:01.1,,Coup droit,SET,,Serveur Point -,,Attaque / Offensif,D3
+FLORE Tristan (250),14:09.4,00:03.1,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (248),14:12.5,00:00.5,,Revers,SET,,BOLL Timo,,Attaque / Offensif,G1
+FLORE Tristan (251),14:13.0,00:00.3,,Revers,SET,,FLORE Tristan,,Attaque / Offensif,G3
+BOLL Timo (249),14:13.3,00:00.5,,Revers,SET,,Serveur Point +,,Attaque / Offensif,D3
+BOLL Timo (250),14:17.1,00:01.1,,Coup droit,SET,,BOLL Timo,Latéral droit,,
+FLORE Tristan (252),14:18.7,00:00.6,,Coup droit,SET,,FLORE Tristan,,Poussette,D1
+BOLL Timo (251),14:19.3,00:00.5,,Revers,SET,,BOLL Timo,,Attaque / Offensif,M2
+FLORE Tristan (253),14:19.8,00:00.4,,Coup droit,SET,,Serveur Point +,,Attaque / Offensif,D3
+BOLL Timo (252),14:23.4,00:00.7,,Coup droit,SET,,BOLL Timo,Latéral droit,,
+BOLL Timo (253),14:31.8,00:00.5,,Coup droit,SET,,BOLL Timo,Latéral droit,,
+FLORE Tristan (254),14:33.2,00:00.6,,Revers,SET,,FLORE Tristan,,Attaque / Offensif,G2
+BOLL Timo (254),14:33.7,00:00.5,,Coup droit,SET,,BOLL Timo,,Attaque / Offensif,M3
+FLORE Tristan (255),14:34.3,00:00.7,,Coup droit,SET,,Serveur Point +,,Attaque / Offensif,M3
+FLORE Tristan (256),14:37.2,00:02.4,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+FLORE Tristan (257),14:47.6,00:02.4,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (255),14:50.6,00:00.3,,Coup droit,SET,,BOLL Timo,,Attaque / Offensif,M2
+FLORE Tristan (258),14:50.9,00:00.3,,Revers,SET,,Serveur Point -,,Controle / Résistance,G3
+FLORE Tristan (259),14:54.8,00:02.2,,Coup droit,SET,,FLORE Tristan,Latéral droit,,
+BOLL Timo (256),14:57.5,00:00.6,,Coup droit,SET,,BOLL Timo,,Poussette,M1
+FLORE Tristan (260),14:58.2,00:00.5,,Coup droit,SET,,FLORE Tristan,,Controle / Résistance,D3
+BOLL Timo (257),14:58.7,00:01.2,,Revers,SET,,Serveur Point +,,Controle / Résistance,M3

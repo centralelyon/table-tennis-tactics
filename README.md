@@ -1,1 +1,1 @@
-# table-tennis-tactics
+# Discovering and Visualizing Tactics in Table Tennis
